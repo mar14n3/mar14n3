@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mar14n3
-- 👀 I’m interested in ...mommies
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...english
-- 💞️ I’m looking to collaborate on ...married women
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...whatzapp
-- 😄 Pronouns: ...ominitrix
-- ⚡ Fun fact: ...im scare of bananas
+- 😄 Pronouns: ..
+- ⚡ Fun fact: ...
 
 <!---
 mar14n3/mar14n3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
